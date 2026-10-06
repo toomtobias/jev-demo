@@ -1,0 +1,977 @@
+[
+  {
+    "slug": "gryn",
+    "name": "Gryn",
+    "description": ""
+  },
+  {
+    "slug": "ris",
+    "name": "Ris",
+    "description": ""
+  },
+  {
+    "slug": "ovriga-spannmal",
+    "name": "Övriga spannmål",
+    "description": ""
+  },
+  {
+    "slug": "mjol",
+    "name": "Mjöl",
+    "description": ""
+  },
+  {
+    "slug": "vetebrod",
+    "name": "Vetebröd",
+    "description": ""
+  },
+  {
+    "slug": "bakverk",
+    "name": "Bakverk",
+    "description": ""
+  },
+  {
+    "slug": "smakakor-och-kex",
+    "name": "Småkakor och kex",
+    "description": ""
+  },
+  {
+    "slug": "hart-brod",
+    "name": "Hårt bröd",
+    "description": ""
+  },
+  {
+    "slug": "mjukt-brod",
+    "name": "Mjukt bröd",
+    "description": ""
+  },
+  {
+    "slug": "frukostflingor",
+    "name": "Frukostflingor",
+    "description": ""
+  },
+  {
+    "slug": "makaroner-nudlar-couscous-osv",
+    "name": "Makaroner, nudlar, couscous osv.",
+    "description": ""
+  },
+  {
+    "slug": "mixer-och-degar",
+    "name": "Mixer och degar",
+    "description": ""
+  },
+  {
+    "slug": "popcorn-och-andra-snacks-fran-spannmal",
+    "name": "Popcorn och andra snacks från spannmål",
+    "description": ""
+  },
+  {
+    "slug": "notkott",
+    "name": "Nötkött",
+    "description": ""
+  },
+  {
+    "slug": "griskott",
+    "name": "Griskött",
+    "description": ""
+  },
+  {
+    "slug": "lamm",
+    "name": "Lamm",
+    "description": ""
+  },
+  {
+    "slug": "fjaderfa",
+    "name": "Fjäderfä",
+    "description": ""
+  },
+  {
+    "slug": "annat-kott",
+    "name": "Annat kött",
+    "description": ""
+  },
+  {
+    "slug": "skinka-bacon-och-salami",
+    "name": "Skinka, bacon och salami",
+    "description": ""
+  },
+  {
+    "slug": "inalvsmat",
+    "name": "Inälvsmat",
+    "description": ""
+  },
+  {
+    "slug": "blandfars",
+    "name": "Blandfärs",
+    "description": ""
+  },
+  {
+    "slug": "korv",
+    "name": "Korv",
+    "description": ""
+  },
+  {
+    "slug": "andra-kottprodukter",
+    "name": "Andra köttprodukter",
+    "description": ""
+  },
+  {
+    "slug": "farsk-lax",
+    "name": "Färsk lax",
+    "description": ""
+  },
+  {
+    "slug": "annan-fisk",
+    "name": "Annan fisk",
+    "description": ""
+  },
+  {
+    "slug": "sillkonserver",
+    "name": "Sillkonserver",
+    "description": ""
+  },
+  {
+    "slug": "fisk-torkad-rokt-gravad",
+    "name": "Fisk - torkad, rökt, gravad",
+    "description": ""
+  },
+  {
+    "slug": "fiskprodukter",
+    "name": "Fiskprodukter",
+    "description": ""
+  },
+  {
+    "slug": "skaldjur-levande-farska-kylda-eller-frysta",
+    "name": "Skaldjur, levande, färska, kylda eller frysta",
+    "description": ""
+  },
+  {
+    "slug": "ovriga-skaldjur-torkade-saltade-i-lag-eller-rokta",
+    "name": "Övriga skaldjur, torkade, saltade, i lag eller rökta",
+    "description": ""
+  },
+  {
+    "slug": "skaldjursberedningar",
+    "name": "Skaldjursberedningar",
+    "description": ""
+  },
+  {
+    "slug": "kaviar",
+    "name": "Kaviar",
+    "description": ""
+  },
+  {
+    "slug": "mjolk",
+    "name": "Mjölk",
+    "description": ""
+  },
+  {
+    "slug": "gradde",
+    "name": "Grädde",
+    "description": ""
+  },
+  {
+    "slug": "annan-mjolk-och-gradde",
+    "name": "Annan mjölk och grädde",
+    "description": ""
+  },
+  {
+    "slug": "vaxtbaserad-dryck",
+    "name": "Växtbaserad dryck",
+    "description": ""
+  },
+  {
+    "slug": "hardost",
+    "name": "Hårdost",
+    "description": ""
+  },
+  {
+    "slug": "dessertost-mjukost-m-m",
+    "name": "Dessertost, mjukost m.m.",
+    "description": ""
+  },
+  {
+    "slug": "filmjolk-och-yoghurt",
+    "name": "Filmjölk och yoghurt",
+    "description": ""
+  },
+  {
+    "slug": "graddfil-creme-fraiche",
+    "name": "Gräddfil, creme fraiche",
+    "description": ""
+  },
+  {
+    "slug": "mjolk-baserade-efterratter-och-drycker",
+    "name": "Mjölk-baserade efterrätter och drycker",
+    "description": ""
+  },
+  {
+    "slug": "agg",
+    "name": "Ägg",
+    "description": ""
+  },
+  {
+    "slug": "olivolja",
+    "name": "Olivolja",
+    "description": ""
+  },
+  {
+    "slug": "andra-matoljor",
+    "name": "Andra matoljor",
+    "description": ""
+  },
+  {
+    "slug": "smor",
+    "name": "Smör",
+    "description": ""
+  },
+  {
+    "slug": "smorblandningar",
+    "name": "Smörblandningar",
+    "description": ""
+  },
+  {
+    "slug": "margarin",
+    "name": "Margarin",
+    "description": ""
+  },
+  {
+    "slug": "andra-animaliska-oljor-och-fetter",
+    "name": "Andra animaliska oljor och fetter",
+    "description": ""
+  },
+  {
+    "slug": "bananer",
+    "name": "Bananer",
+    "description": ""
+  },
+  {
+    "slug": "tropiska-frukter",
+    "name": "Tropiska frukter",
+    "description": ""
+  },
+  {
+    "slug": "apelsiner",
+    "name": "Apelsiner",
+    "description": ""
+  },
+  {
+    "slug": "smacitrus",
+    "name": "Småcitrus",
+    "description": ""
+  },
+  {
+    "slug": "citroner-och-andra-citrusfrukter",
+    "name": "Citroner och andra citrusfrukter",
+    "description": ""
+  },
+  {
+    "slug": "applen",
+    "name": "Äpplen",
+    "description": ""
+  },
+  {
+    "slug": "paron",
+    "name": "Päron",
+    "description": ""
+  },
+  {
+    "slug": "andra-stenfrukter",
+    "name": "Andra stenfrukter",
+    "description": ""
+  },
+  {
+    "slug": "bar",
+    "name": "Bär",
+    "description": ""
+  },
+  {
+    "slug": "druvor",
+    "name": "Druvor",
+    "description": ""
+  },
+  {
+    "slug": "kiwi-granatapplen",
+    "name": "Kiwi, granatäpplen",
+    "description": ""
+  },
+  {
+    "slug": "meloner",
+    "name": "Meloner",
+    "description": ""
+  },
+  {
+    "slug": "djupfryst-frukt-och-bar",
+    "name": "Djupfryst frukt och bär",
+    "description": ""
+  },
+  {
+    "slug": "torkad-frukt",
+    "name": "Torkad frukt",
+    "description": ""
+  },
+  {
+    "slug": "notter-med-eller-utan-skal",
+    "name": "Nötter, med eller utan skal",
+    "description": ""
+  },
+  {
+    "slug": "notter-och-frukt-beredningar",
+    "name": "Nötter och frukt, beredningar",
+    "description": ""
+  },
+  {
+    "slug": "konserverad-frukt-och-fruktprodukter",
+    "name": "Konserverad frukt och fruktprodukter",
+    "description": ""
+  },
+  {
+    "slug": "kal",
+    "name": "Kål",
+    "description": ""
+  },
+  {
+    "slug": "sallad",
+    "name": "Sallad",
+    "description": ""
+  },
+  {
+    "slug": "blomkal-och-broccoli",
+    "name": "Blomkål och broccoli",
+    "description": ""
+  },
+  {
+    "slug": "ovriga-blad-och-stamgronsaker",
+    "name": "Övriga blad- och stamgrönsaker",
+    "description": ""
+  },
+  {
+    "slug": "tomater",
+    "name": "Tomater",
+    "description": ""
+  },
+  {
+    "slug": "gurka",
+    "name": "Gurka",
+    "description": ""
+  },
+  {
+    "slug": "paprika",
+    "name": "Paprika",
+    "description": ""
+  },
+  {
+    "slug": "aubergine-squash-m-m",
+    "name": "Aubergine, squash m.m.",
+    "description": ""
+  },
+  {
+    "slug": "grona-baljvaxter-farska-eller-kylda",
+    "name": "Gröna baljväxter, färska eller kylda",
+    "description": ""
+  },
+  {
+    "slug": "morotter",
+    "name": "Morötter",
+    "description": ""
+  },
+  {
+    "slug": "gul-lok",
+    "name": "Gul lök",
+    "description": ""
+  },
+  {
+    "slug": "annan-lok",
+    "name": "Annan lök",
+    "description": ""
+  },
+  {
+    "slug": "svamp",
+    "name": "Svamp",
+    "description": ""
+  },
+  {
+    "slug": "ovriga-gronsaker",
+    "name": "Övriga grönsaker",
+    "description": ""
+  },
+  {
+    "slug": "potatis",
+    "name": "Potatis",
+    "description": ""
+  },
+  {
+    "slug": "torkade-artor-och-bonor",
+    "name": "Torkade ärtor och bönor",
+    "description": ""
+  },
+  {
+    "slug": "andra-gronsaker-rotknolar-mjolbananer-och-kokbananer-torkade-och-dehydratiserad",
+    "name": "Andra grönsaker, rotknölar, mjölbananer och kokbananer, torkade och dehydratiserad",
+    "description": ""
+  },
+  {
+    "slug": "frysta-gronsaker",
+    "name": "Frysta grönsaker",
+    "description": ""
+  },
+  {
+    "slug": "konserverade-eller-processade-gronsaker",
+    "name": "Konserverade eller processade grönsaker",
+    "description": ""
+  },
+  {
+    "slug": "potatischips",
+    "name": "Potatischips",
+    "description": ""
+  },
+  {
+    "slug": "socker",
+    "name": "Socker",
+    "description": ""
+  },
+  {
+    "slug": "sirap",
+    "name": "Sirap",
+    "description": ""
+  },
+  {
+    "slug": "annat-socker-och-sotningsmedel",
+    "name": "Annat socker och sötningsmedel",
+    "description": ""
+  },
+  {
+    "slug": "marmelad-sylt",
+    "name": "Marmelad, sylt",
+    "description": ""
+  },
+  {
+    "slug": "honung",
+    "name": "Honung",
+    "description": ""
+  },
+  {
+    "slug": "notsmor",
+    "name": "Nötsmör",
+    "description": ""
+  },
+  {
+    "slug": "choklad",
+    "name": "Choklad",
+    "description": ""
+  },
+  {
+    "slug": "kakao-och-chokladpulver",
+    "name": "Kakao och chokladpulver",
+    "description": ""
+  },
+  {
+    "slug": "glass-och-is",
+    "name": "Glass och is",
+    "description": ""
+  },
+  {
+    "slug": "konfektyr",
+    "name": "Konfektyr",
+    "description": ""
+  },
+  {
+    "slug": "fardiglagad-mat",
+    "name": "Färdiglagad mat",
+    "description": ""
+  },
+  {
+    "slug": "barnmat",
+    "name": "Barnmat",
+    "description": ""
+  },
+  {
+    "slug": "saser-smaksattningar",
+    "name": "Såser, smaksättningar",
+    "description": ""
+  },
+  {
+    "slug": "salt",
+    "name": "Salt",
+    "description": ""
+  },
+  {
+    "slug": "farska-orter-och-kryddor",
+    "name": "Färska örter och kryddor",
+    "description": ""
+  },
+  {
+    "slug": "kryddor-och-fron",
+    "name": "Kryddor och frön",
+    "description": ""
+  },
+  {
+    "slug": "buljong-bakpulver-jast-etc",
+    "name": "Buljong, bakpulver, jäst, etc.",
+    "description": ""
+  },
+  {
+    "slug": "matkassar",
+    "name": "Matkassar",
+    "description": ""
+  },
+  {
+    "slug": "juice-och-nektar",
+    "name": "Juice och nektar",
+    "description": ""
+  },
+  {
+    "slug": "kaffe",
+    "name": "Kaffe",
+    "description": ""
+  },
+  {
+    "slug": "te",
+    "name": "Te",
+    "description": ""
+  },
+  {
+    "slug": "mineralvatten-ej-smaksatt",
+    "name": "Mineralvatten, ej smaksatt",
+    "description": ""
+  },
+  {
+    "slug": "lask-och-saft",
+    "name": "Läsk och saft",
+    "description": ""
+  },
+  {
+    "slug": "outspadd-saft-och-maltidsdryck",
+    "name": "Outspädd saft och måltidsdryck",
+    "description": ""
+  },
+  {
+    "slug": "mineralvatten-smaksatt",
+    "name": "Mineralvatten, smaksatt",
+    "description": ""
+  },
+  {
+    "slug": "energidrycker-och-ovriga-alkoholfria-drycker",
+    "name": "Energidrycker och övriga alkoholfria drycker",
+    "description": ""
+  },
+  {
+    "slug": "rott-vin",
+    "name": "Rött vin",
+    "description": ""
+  },
+  {
+    "slug": "vitt-vin",
+    "name": "Vitt vin",
+    "description": ""
+  },
+  {
+    "slug": "mousserande-vin",
+    "name": "Mousserande vin",
+    "description": ""
+  },
+  {
+    "slug": "rosevin",
+    "name": "Rosévin",
+    "description": ""
+  },
+  {
+    "slug": "forstarkt-vin-glogg-martini-etc",
+    "name": "Förstärkt vin - Glögg, Martini, etc.",
+    "description": ""
+  },
+  {
+    "slug": "cider-mindre-an-3-5",
+    "name": "Cider - Mindre än 3,5%",
+    "description": ""
+  },
+  {
+    "slug": "lattol-och-alkoholfritt-ol",
+    "name": "Lättöl och alkoholfritt öl",
+    "description": ""
+  },
+  {
+    "slug": "ol-2-8-3-5",
+    "name": "Öl - 2,8-3,5%",
+    "description": ""
+  },
+  {
+    "slug": "cigaretter",
+    "name": "Cigaretter",
+    "description": ""
+  },
+  {
+    "slug": "cigarrer",
+    "name": "Cigarrer",
+    "description": ""
+  },
+  {
+    "slug": "andra-tobaksprodukter",
+    "name": "Andra tobaksprodukter",
+    "description": ""
+  },
+  {
+    "slug": "klader",
+    "name": "Kläder",
+    "description": ""
+  },
+  {
+    "slug": "garn",
+    "name": "Garn",
+    "description": ""
+  },
+  {
+    "slug": "skor-och-andra-skodon",
+    "name": "Skor och andra skodon",
+    "description": ""
+  },
+  {
+    "slug": "reparationer-varor",
+    "name": "Reparationer, varor",
+    "description": ""
+  },
+  {
+    "slug": "mobler-inventarier-och-friliggande-mattor",
+    "name": "Möbler, inventarier och friliggande mattor",
+    "description": ""
+  },
+  {
+    "slug": "heminredningsartiklar",
+    "name": "Heminredningsartiklar",
+    "description": ""
+  },
+  {
+    "slug": "hushallstextilier",
+    "name": "Hushållstextilier",
+    "description": ""
+  },
+  {
+    "slug": "storre-elektriska-apparater-och-annan-hushallsutrustning",
+    "name": "Större elektriska apparater och annan hushållsutrustning",
+    "description": ""
+  },
+  {
+    "slug": "mindre-hushallsapparater",
+    "name": "Mindre hushållsapparater",
+    "description": ""
+  },
+  {
+    "slug": "glas-porslin-och-bestick-samt-ovrigt-husgerad",
+    "name": "Glas, porslin och bestick samt övrigt husgeråd",
+    "description": ""
+  },
+  {
+    "slug": "motordrivna-verktyg-och-redskap",
+    "name": "Motordrivna verktyg och redskap",
+    "description": ""
+  },
+  {
+    "slug": "verktyg-utan-motor-och-diverse-tillbehor",
+    "name": "Verktyg utan motor och diverse tillbehör",
+    "description": ""
+  },
+  {
+    "slug": "diverse-tillbehor-till-hemmet",
+    "name": "Diverse tillbehör till hemmet",
+    "description": ""
+  },
+  {
+    "slug": "tvattmedel",
+    "name": "Tvättmedel",
+    "description": ""
+  },
+  {
+    "slug": "diskmedel",
+    "name": "Diskmedel",
+    "description": ""
+  },
+  {
+    "slug": "rengoringsmedel-m-m",
+    "name": "Rengöringsmedel m.m.",
+    "description": ""
+  },
+  {
+    "slug": "redskap-for-rengoring",
+    "name": "Redskap för rengöring",
+    "description": ""
+  },
+  {
+    "slug": "forbrukningsartiklar-for-rengoring",
+    "name": "Förbrukningsartiklar för rengöring",
+    "description": ""
+  },
+  {
+    "slug": "hushallspapper",
+    "name": "Hushållspapper",
+    "description": ""
+  },
+  {
+    "slug": "ovriga-forbrukningsartiklar",
+    "name": "Övriga förbrukningsartiklar",
+    "description": ""
+  },
+  {
+    "slug": "lakemedel",
+    "name": "Läkemedel",
+    "description": ""
+  },
+  {
+    "slug": "vitaminer",
+    "name": "Vitaminer",
+    "description": ""
+  },
+  {
+    "slug": "ortmedicin",
+    "name": "Örtmedicin",
+    "description": ""
+  },
+  {
+    "slug": "medicinska-diagnostiska-tester",
+    "name": "Medicinska diagnostiska tester",
+    "description": ""
+  },
+  {
+    "slug": "medicinsk-skyddsutrustning",
+    "name": "Medicinsk skyddsutrustning",
+    "description": ""
+  },
+  {
+    "slug": "plaster",
+    "name": "Plåster",
+    "description": ""
+  },
+  {
+    "slug": "synhjalpmedel",
+    "name": "Synhjälpmedel",
+    "description": ""
+  },
+  {
+    "slug": "cykel",
+    "name": "Cykel",
+    "description": ""
+  },
+  {
+    "slug": "delar-och-tillbehor-till-personliga-transportmedel",
+    "name": "Delar och tillbehör till personliga transportmedel",
+    "description": ""
+  },
+  {
+    "slug": "branslen-och-smorjmedel-for-personliga-transportmedel",
+    "name": "Bränslen och smörjmedel för personliga transportmedel",
+    "description": ""
+  },
+  {
+    "slug": "post-och-budtjanster",
+    "name": "Post- och budtjänster",
+    "description": ""
+  },
+  {
+    "slug": "utrustning-mobiltelefon",
+    "name": "Utrustning, mobiltelefon",
+    "description": ""
+  },
+  {
+    "slug": "informationsbehandlingsutrustning",
+    "name": "Informationsbehandlingsutrustning",
+    "description": ""
+  },
+  {
+    "slug": "datortillbehor",
+    "name": "Datortillbehör",
+    "description": ""
+  },
+  {
+    "slug": "horlurar-headset",
+    "name": "Hörlurar/headset",
+    "description": ""
+  },
+  {
+    "slug": "utrustning-for-mottagning-inspelning-och-atergivning-av-ljud-och-video",
+    "name": "Utrustning för mottagning, inspelning och återgivning av ljud och video",
+    "description": ""
+  },
+  {
+    "slug": "inspelningsbara-vhs-band-dvd-skivor",
+    "name": "Inspelningsbara VHS-band/DVD-skivor",
+    "description": ""
+  },
+  {
+    "slug": "mobiltelefoni",
+    "name": "Mobiltelefoni",
+    "description": ""
+  },
+  {
+    "slug": "kameror",
+    "name": "Kameror",
+    "description": ""
+  },
+  {
+    "slug": "tillbehor-till-fotografisk-och-filmfotografisk-utrustning",
+    "name": "Tillbehör till fotografisk och filmfotografisk utrustning",
+    "description": ""
+  },
+  {
+    "slug": "batar-jakter-utombordsmotorer-och-annan-utrustning-for-vattensport",
+    "name": "Båtar, jakter, utombordsmotorer och annan utrustning för vattensport",
+    "description": ""
+  },
+  {
+    "slug": "leksaker",
+    "name": "Leksaker",
+    "description": ""
+  },
+  {
+    "slug": "sportutrustning",
+    "name": "Sportutrustning",
+    "description": ""
+  },
+  {
+    "slug": "utrustning-for-camping-och-friluftsliv",
+    "name": "Utrustning för camping och friluftsliv",
+    "description": ""
+  },
+  {
+    "slug": "blomjord",
+    "name": "Blomjord",
+    "description": ""
+  },
+  {
+    "slug": "vaxtnaring",
+    "name": "Växtnäring",
+    "description": ""
+  },
+  {
+    "slug": "blomkruka",
+    "name": "Blomkruka",
+    "description": ""
+  },
+  {
+    "slug": "fro-lok",
+    "name": "Frö/lök",
+    "description": ""
+  },
+  {
+    "slug": "blommor-vaxter",
+    "name": "Blommor/växter",
+    "description": ""
+  },
+  {
+    "slug": "djurmat",
+    "name": "Djurmat",
+    "description": ""
+  },
+  {
+    "slug": "lakemedel-for-sallskapsdjur",
+    "name": "Läkemedel för sällskapsdjur",
+    "description": ""
+  },
+  {
+    "slug": "lotteri-tips-toto",
+    "name": "Lotteri, tips, toto",
+    "description": ""
+  },
+  {
+    "slug": "musikinstrument",
+    "name": "Musikinstrument",
+    "description": ""
+  },
+  {
+    "slug": "inspelad-musik",
+    "name": "Inspelad musik",
+    "description": ""
+  },
+  {
+    "slug": "tjanster-som-tillhandahalls-av-biografer-teatrar-och-konsertlokaler",
+    "name": "Tjänster som tillhandahålls av biografer, teatrar och konsertlokaler",
+    "description": ""
+  },
+  {
+    "slug": "bocker",
+    "name": "Böcker",
+    "description": ""
+  },
+  {
+    "slug": "tidningar",
+    "name": "Tidningar",
+    "description": ""
+  },
+  {
+    "slug": "tidskrifter",
+    "name": "Tidskrifter",
+    "description": ""
+  },
+  {
+    "slug": "diverse-trycksaker",
+    "name": "Diverse trycksaker",
+    "description": ""
+  },
+  {
+    "slug": "skriv-och-ritmaterial",
+    "name": "Skriv- och ritmaterial",
+    "description": ""
+  },
+  {
+    "slug": "restauranger-kafeer-och-liknande",
+    "name": "Restauranger, kaféer och liknande",
+    "description": ""
+  },
+  {
+    "slug": "rakapparat",
+    "name": "Rakapparat",
+    "description": ""
+  },
+  {
+    "slug": "tval-och-schampo",
+    "name": "Tvål och schampo",
+    "description": ""
+  },
+  {
+    "slug": "blojor",
+    "name": "Blöjor",
+    "description": ""
+  },
+  {
+    "slug": "toalettpapper",
+    "name": "Toalettpapper",
+    "description": ""
+  },
+  {
+    "slug": "kosmetika",
+    "name": "Kosmetika",
+    "description": ""
+  },
+  {
+    "slug": "icke-elektrisk-utrustning-for-personlig-hygien",
+    "name": "Icke-elektrisk utrustning för personlig hygien",
+    "description": ""
+  },
+  {
+    "slug": "tandkram-och-munskolj",
+    "name": "Tandkräm och munskölj",
+    "description": ""
+  },
+  {
+    "slug": "andra-ej-varaktiga-toalettartiklar",
+    "name": "Andra ej varaktiga toalettartiklar",
+    "description": ""
+  },
+  {
+    "slug": "smycken-och-ur",
+    "name": "Smycken och ur",
+    "description": ""
+  },
+  {
+    "slug": "storre-barnartiklar",
+    "name": "Större barnartiklar",
+    "description": ""
+  },
+  {
+    "slug": "vaskor-och-planbocker",
+    "name": "Väskor och plånböcker",
+    "description": ""
+  },
+  {
+    "slug": "diverse-personliga-tillhorigheter",
+    "name": "Diverse personliga tillhörigheter",
+    "description": ""
+  }
+]
