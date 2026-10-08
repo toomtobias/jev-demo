@@ -1,4 +1,5 @@
-export const JEV_MODEL = "typesafe/jev-1.13";
+// Tilde-aliaset följer senaste Jev. Svarets modell-id visar vilken version som svarade.
+export const JEV_MODEL = "~typesafe/jev-latest";
 
 const DECISIONS_URL = "https://openrouter.ai/api/alpha/decisions";
 

@@ -240,6 +240,7 @@ function Meta({ result }: { result: ClassifyResult }) {
       <span>{formatCount(result.usage.output_tokens)} output_tokens</span>
       <span>{formatCost(result.usage.cost)}</span>
       <span>{result.model}</span>
+      <span>{formatConfidence(result.confidence)}</span>
     </p>
   );
 }

@@ -1,6 +1,6 @@
 # Kategorisering av dagligvaror
 
-Liten intern sida som lägger ett varunamn i en produktgrupp. Klassningen görs med TypeSafe Jev (`typesafe/jev-1.13`) via OpenRouters Decisions API, inte via chat completions.
+Liten intern sida som lägger ett varunamn i en produktgrupp. Klassningen görs med TypeSafe Jev (`~typesafe/jev-latest`) via OpenRouters Decisions API, inte via chat completions.
 
 En sida, ingen databas, ingen inloggning.
 
@@ -29,7 +29,7 @@ OPENROUTER_API_KEY=sk-or-...
 
 Starta om servern efter att du ändrat env. Next.js läser `.env.local` vid start.
 
-Nyckeln krävs. Saknas den svarar klassificering och granskning med ett fel. Servern skickar `POST https://openrouter.ai/api/alpha/decisions` med modellen `typesafe/jev-1.13`.
+Nyckeln krävs. Saknas den svarar klassificering och granskning med ett fel. Servern skickar `POST https://openrouter.ai/api/alpha/decisions` med modellen `~typesafe/jev-latest`. Aliaset pekar på den senaste Jev-versionen. Idag är det `typesafe/jev-1.13`. Svarets modell-id visar vilken version som svarade.
 
 ## Så funkar anropet
 
